@@ -19,7 +19,7 @@ public class MyProfile implements Me {
   }
   
   @Override
-  public ArrayList<String, Link> projects() {
+  public ArrayList<> projects() {
   
   ArrayList<String, Link> array = new ArrayList<>();
   
