@@ -5,6 +5,7 @@
 package fr.pandaguerrier.conodia
 
 import fr.pandaguerrier.conodia.me
+import fr.pandaguerrier.conodia.me.array.ArrayList
 
 public class MyProfile implements Me {
 
