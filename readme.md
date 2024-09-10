@@ -32,4 +32,4 @@ Salut, je m'appelle Jules, j'ai 16 ans et je suis passionné de développement d
 - **Tailwindcss**
 
 N'hésitez pas à explorer mes repositories pour découvrir mes réalisations et n'hésitez pas à me contacter pour discuter de projets passionnants!
-Pour en savoir plus sur moi même, allez sur [mon portofolio](https://pandaguerrier.fr)
+Pour en savoir plus sur moi même, allez sur [mon portofolio](https://pandaguerrier.fr).
