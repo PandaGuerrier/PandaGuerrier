@@ -2,12 +2,10 @@
 
 # Bienvenue sur le profil de Jules 👋
 
-Salut, je m'appelle Jules, j'ai 16 ans et je suis passionné de développement depuis l'âge de 13 ans, accumulant ainsi 3 années d'expérience. Actuellement, je suis au lycée français général avec comme spécialités NSI, Maths et SI.
-
+Salut, je m'appelle Jules, j'ai 18 ans et je suis passionné de développement depuis l'âge de 13 ans, accumulant ainsi 5 années d'expérience. Actuellement, à l'Efrei en Bachelor développement web & application.
 ## Projets en cours 🚀
 
-- **[Mineral](https://github.com/mineral-dart):** Un projet où je travaille sur la conception de bots Discord en Dart.
-- **[RedConflict](https://github.com/redconflict):** Un projet d'un serveur minecraft où on fait tout de 0 en moddé.
+- **[Mineral](https://github.com/mineral-dart):** Un projet où je travaille sur la conception de bots Discord en Dart, en architecture hexagonale.
 
 ## Ancien Projets:
 
@@ -17,7 +15,8 @@ Salut, je m'appelle Jules, j'ai 16 ans et je suis passionné de développement d
 
 - Dart *(Mineral et autres projets)*
 - Java
-- TypeScript
+- TypeScript / JavaScript
+- C
 - Rust *(RedConflict)*
 
 
@@ -28,6 +27,7 @@ Salut, je m'appelle Jules, j'ai 16 ans et je suis passionné de développement d
 - **NextJs**
 - **ReactJs**
 - **Spigot**
+- **Expo (mobile app)**
 - **Axum (avec Tokio pour l'async)**
 - **Tailwindcss**
 
