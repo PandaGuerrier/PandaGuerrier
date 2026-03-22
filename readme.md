@@ -4,6 +4,7 @@ Salut, je m'appelle Jules, j'ai 18 ans et je suis passionné de développement d
 ## Projets en cours 🚀
 
 - **[Mineral](https://github.com/mineral-dart):** Un projet où je travaille sur la conception de bots Discord en Dart, en architecture hexagonale.
+- **Expr'Efrei**: réseau social pour les étudiants de l'Efrei -> App mobile, App fullstack monolith
 
 ## Ancien Projets:
 
